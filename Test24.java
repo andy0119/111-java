@@ -14,8 +14,3 @@ public class Test24 {
                 System.out.println("85");  
     }
 }
-/*
-計算TEXT車資
-7公里內85元 7公里後就每公里5元
- */
- 
