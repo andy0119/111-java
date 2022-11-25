@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test7 {
+public class Test07 {
     public static void main(String[] args) {
         int grade = 9 ;
                 
