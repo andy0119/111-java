@@ -16,3 +16,16 @@ class Human{
         System.out.println(weight);
     }
 }
+/*
+public class Test33{
+    public static void main(String[]args){
+        Human human1 = new Human("man", 170, 75);
+        Human human2 = new Human("man", 160, 70);
+        human1.printHight();
+        //human1.printWeight();
+        human2.printHight();
+        //human2.printWeight();
+       
+    }
+}
+*/
